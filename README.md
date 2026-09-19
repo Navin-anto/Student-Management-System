@@ -53,23 +53,23 @@ A Python and MySQL based application for managing student details, subjects, mar
 ## Database
 
 The project uses MySQL with three main tables :
-    - 'STUDENT'
-    - 'SUBJECT'
-    - 'MARK'
+ - 'STUDENT'
+ - 'SUBJECT'
+ - 'MARK'
  
-    The 'MARK' table uses foreign keys to connect students and subjects.
+ The 'MARK' table uses foreign keys to connect students and subjects.
 
 ## Project Structure
 
 '''text
 Student-Management-System/
 |
-|----main.py
-|----database.py
-|----student.py
-|----subject.py
-|----marks.py
-|----performance.py
-|----report.py
-|----validation.py
-|----README.md
+|---main.py
+|---database.py
+|---student.py
+|---subject.py
+|---marks.py
+|---performance.py
+|---report.py
+|---validation.py
+|---README.md
