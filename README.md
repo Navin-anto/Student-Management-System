@@ -61,16 +61,14 @@ The project uses MySQL with three main tables :
 
 ## Project Structure
 
-'''text
-Student-Management-System/
-|
-|---main.py
-|---database.py
-|---student.py
-|---subject.py
-|---marks.py
-|---performance.py
-|---report.py
-|---validation.py
-|---README.md
-'''
+    Student-Management-System/
+    ├── main.py
+    ├── database.py
+    ├── student.py
+    ├── subject.py
+    ├── marks.py
+    ├── performance.py
+    ├── report.py
+    ├── validation.py
+    ├── .gitignore
+    └── README.md
